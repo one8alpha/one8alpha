@@ -1,4 +1,4 @@
-                                                              one8alpha | MAYUR VITEKAR
+                                                        one8alpha | MAYUR VITEKAR
   
 👋 Hi, I’m Mayur  <br>💻 Aspiring Java Full‑Stack Developer | Open‑Source Contributor |🌱 Currently pursuing B.Tech in Computer Science & Engineering  <br># 💫 About Me<br>- Passionate about hands‑on coding, Spring Boot, Maven, Python, and C  <br>- Contributor to EaseMotion CSS   <br>- Actively participating in open‑source communities and collaborative projects  <br> # ⚡ Tech Stack<br>- **Languages:** Java, Python, C  <br>- **Frameworks:** Spring Boot, Maven  <br>- **Tools:** GitHub, VS Code, OpenCV <br><br><br># 🌐 Connect With Me<br>[LinkedIn](https://www.linkedin.com/in/vitekarmayur/) <br><br>
 # 🏆 Achievements<br> <br>- Open‑Source PRs merged & showcased  <br>- Leading projects with practical, beginner‑friendly solutions<br>
